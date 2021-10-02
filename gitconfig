@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = anton.gordon85@outlook.com
+	name = Anton Gordon
